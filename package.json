@@ -1,0 +1,12 @@
+{
+    "name": "Chat",
+    "version": "1.0.0",
+    "description": "Chat para probar socket.io, readline y ansi-color",
+    "author": "Jaime Agudo, extension of Matt Harzewski (http://code.tutsplus.com/tutorials/real-time-chat-with-nodejs-readline-socketio--cms-20953)",
+    "dependencies": {
+        "socket.io": "latest",
+        "socket.io-client": "latest",
+        "ansi-color": "latest"
+    },
+    "private": true
+}
